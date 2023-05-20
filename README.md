@@ -2,7 +2,7 @@
 - 🏠 My Portfolio Page https://www.hiroyukey.com
 - 👀 I’m interested in Front-End, Back-End, UI/UX, and more...
 - 🌱 I’m currently learning "PHP, Laravel, React, JavaScript, and more..."
-- 💞️ I'm currently running "STAGICK PROJECTS" as my personal project. For more information, please visit https://www.stagick.com
+- 💞️ I'm currently running "STAGICK" as my personal project. For more information, please visit https://www.stagick.com
 - 📫 How to reach me info@hiroyukey.com
 
 <!---
